@@ -369,4 +369,4 @@ bool List<Item>::remove(int index) {
 	}
 }
 
-#endif // _X_XMMXX
+#endif
